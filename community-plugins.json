@@ -71209,5 +71209,12 @@
     "author": "李昌荣",
     "description": "Manage Git changes, browse a commit graph, restore stashes, and resolve conflicts in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "li-cr/VaultBranch"
+  },
+  {
+    "id": "weekly-routine-board",
+    "name": "Weekly Routine Board",
+    "author": "Lennart Friebel",
+    "description": "Plan and view recurring weekly tasks and routines across all seven days with untimed day cards and timed schedule slots.",
+    "repo": "Yaloalo/daily_obsidian"
   }
 ]
